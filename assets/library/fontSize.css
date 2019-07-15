@@ -1,0 +1,207 @@
+.text-15 {
+    font-size: 15px;
+}
+
+.text-16 {
+    font-size: 16px;
+}
+
+.text-17 {
+    font-size: 17px;
+}
+
+.text-18 {
+    font-size: 18px;
+}
+
+.text-19 {
+    font-size: 19px;
+}
+
+.text-20 {
+    font-size: 20px;
+}
+
+.text-21 {
+    font-size: 21px;
+}
+
+.text-22 {
+    font-size: 22px;
+}
+
+.text-23 {
+    font-size: 23px;
+}
+
+.text-24 {
+    font-size: 24px;
+}
+
+.text-25 {
+    font-size: 25px;
+}
+
+.text-26 {
+    font-size: 26px;
+}
+
+.text-27 {
+    font-size: 27px;
+}
+
+.text-28 {
+    font-size: 28px;
+}
+
+.text-29 {
+    font-size: 29px;
+}
+
+.text-30 {
+    font-size: 30px !important;
+}
+
+.text-31 {
+    font-size: 31px;
+}
+
+.text-32 {
+    font-size: 32px;
+}
+
+.text-33 {
+    font-size: 33px;
+}
+
+.text-34 {
+    font-size: 34px;
+}
+
+.text-35 {
+    font-size: 35px;
+}
+
+.text-36 {
+    font-size: 36px;
+}
+
+.text-37 {
+    font-size: 37px;
+}
+
+.text-38 {
+    font-size: 38px;
+}
+
+.text-39 {
+    font-size: 39px;
+}
+
+.text-40 {
+    font-size: 40px;
+}
+
+@media (max-width: 575px) {
+.text-sm-20 {
+    font-size: 20px;
+    }
+
+    .text-sm-25 {
+        font-size: 25px;
+    }
+
+    .text-sm-30 {
+        font-size: 30px;
+    }
+    
+    .text-sm-center{
+        text-align: center !important;
+    }
+    .text-sm-left{
+        text-align: left
+    }
+    .text-sm-right{
+        text-align: right;
+    }
+}
+
+@media (max-width: 375px) {
+.text-xs-13 {
+    font-size: 13px;
+    }
+.text-xs-14 {
+    font-size: 14px;
+    }
+.text-xs-15 {
+    font-size: 15px;
+    }
+
+    .text-xs-16 {
+        font-size: 16px;
+    }
+
+    .text-xs-17 {
+        font-size: 17px;
+    }
+    
+    .text-xs-center{
+        text-align: center !important;
+    }
+    .text-xs-left{
+        text-align: left
+    }
+    .text-xs-right{
+        text-align: right;
+    }
+}
+
+@media (max-width: 767px) {
+.text-md-20 {
+    font-size: 20px;
+    }
+
+    .text-md-25 {
+        font-size: 25px;
+    }
+
+    .text-md-30 {
+        font-size: 30px;
+    }
+    
+    .text-md-center{
+        text-align: center !important;
+    }
+    .text-md-left{
+        text-align: left
+    }
+    .text-md-right{
+        text-align: right;
+    }
+}
+
+@media (min-width: 768px) {
+.text-sm-n-up-20 {
+    font-size: 20px;
+    }
+
+    .text-sm-n-up-25 {
+        font-size: 25px;
+    }
+
+    .text-sm-n-up-30 {
+        font-size: 30px;
+    }
+    
+    .text-sm-n-up-center{
+        text-align: center !important;
+    }
+    
+    .text-sm-n-up-left{
+        text-align: left !important;
+    }
+    
+    .text-sm-n-up-right{
+        text-align: right !important;
+    }
+}
